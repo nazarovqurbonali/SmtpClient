@@ -1,0 +1,2 @@
+### How to send emails from C#/.NET - The definitive tutorial 
+https://blog.elmah.io/how-to-send-emails-from-csharp-net-the-definitive-tutorial/#:~:text=Sending%20emails%20from%20C%23%20using,subject%22%2C%20%22body%22
