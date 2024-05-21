@@ -114,7 +114,7 @@ public class AccountService : IAccountService
         {
             new Claim(JwtRegisteredClaimNames.Name, user.UserName!),
             new Claim(JwtRegisteredClaimNames.Email, user.Email!),
-            new Claim(JwtRegisteredClaimNames.NameId, user.Id),
+            new Claim(JwtRegisteredClaimNames.Sid, user.Id),
         };
 
         //add roles
